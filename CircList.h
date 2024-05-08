@@ -14,7 +14,7 @@ bool CircList_insert(CircList* list, int data);
 
 void CircList_print(CircList* list);
 
-int Exercito_raimundo(CircList* list, int m);
+int Exercito_edmundo(CircList* list, int m);
 
 bool CircList_remove(CircList* list, int data);
 

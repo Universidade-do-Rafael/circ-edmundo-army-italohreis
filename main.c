@@ -14,7 +14,7 @@ int main() {
         CircList_insert(list, i+1);
     }    
     
-    printf("%d\n", Exercito_raimundo(list, m));
+    printf("%d\n", Exercito_edmundo(list, m));
     
     return 0;
 }

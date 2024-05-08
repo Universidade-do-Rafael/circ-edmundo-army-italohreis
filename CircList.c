@@ -54,7 +54,7 @@ bool CircList_insert(CircList *list, int val) {
     return true;
 }
 
-int Exercito_raimundo(CircList *list, int m) {
+int Exercito_edmundo(CircList *list, int m) {
 
     Node *current = list->begin;
     Node *aux = NULL;    
